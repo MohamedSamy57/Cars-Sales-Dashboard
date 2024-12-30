@@ -2,7 +2,7 @@
 An interactive Power BI dashboard providing actionable insights into car sales performance, trends, and KPIs.  
 Designed to help businesses identify opportunities, optimize strategies, and drive growth effectively.
 
->![Car_Sales_Dashboard_page-0002](https://github.com/user-attachments/assets/1f767a26-4b3d-4472-9eb1-814799757184)
+>![Car_Sales_Dashboard_page-0002](https://github.com/user-attachments/assets/4d254adb-80b8-46e8-812e-0fcb530fa9e2)
 
 ---
 
